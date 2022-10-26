@@ -30,7 +30,7 @@ export default function Home() {
             <Hero siteName={siteName} />
             <Showcase showcaseContent={showcaseContentOne} />
             <BlockPhoto blockPhotoContent={blockPhotoContentOne} reverse />
-            <EventsPreview />
+            {/* <EventsPreview /> */}
             <BlockText text={blockTextOne} />
             {/* 
       <MosaicSection

@@ -46,7 +46,7 @@ const heroContent = {
         "This is the fourth highlight",
     ],
     buttons: [
-        { variant: "contained", href: "/curriculumvitae", text: "View cv" },
+        // { variant: "contained", href: "/curriculumvitae", text: "View cv" },
         {
             variant: "contained",
             href: "/publications",
@@ -536,7 +536,7 @@ const eventConfig = {
 };
 
 const pages = [
-    { name: "curriculum vitae", href: "/curriculumvitae", subPages: [] },
+    // { name: "curriculum vitae", href: "/curriculumvitae", subPages: [] },
     {
         name: "publications",
         href: "/publications",
@@ -545,21 +545,21 @@ const pages = [
             { name: "Articles", href: "/publications/articles" },
         ],
     },
-    {
-        name: "events",
-        href: "/events",
-        subPages: [],
-    },
+    // {
+    //     name: "events",
+    //     href: "/events",
+    //     subPages: [],
+    // },
     {
         name: "about",
         href: "/about",
         subPages: [
-            { name: "Teaching", href: "/about/artist" },
-            { name: "Research", href: "/about/studio" },
-            { name: "Accomplishments", href: "/about/work" },
+            // { name: "Teaching", href: "/about/artist" },
+            // { name: "Research", href: "/about/studio" },
+            // { name: "Accomplishments", href: "/about/work" },
         ],
     },
-    { name: "videos", href: "/videos", subPages: [] },
+    // { name: "videos", href: "/videos", subPages: [] },
 ];
 
 const videos = [
