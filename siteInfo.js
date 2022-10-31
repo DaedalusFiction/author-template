@@ -14,7 +14,7 @@ import lightTheme from "./styles/themes/theme";
 
 // 1. Meta
 
-const siteName = "ACADEMIC";
+const siteName = "AUTHOR";
 // const siteName = "Cosima Hewes";
 
 // 2. Layout
